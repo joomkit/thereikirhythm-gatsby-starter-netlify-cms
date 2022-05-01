@@ -1,19 +1,14 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Your healing, your way.
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+*I offer the following healing treatments and would be happy to personalise these for your specific needs. I offer a free, 20 minute consultation to ensure you get your healing, your way.*
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+* Reiki Tenohira (hands on healing). This is currently not being offered, due to the effects of Covid -19.
+* Distant Reiki healing.
+* Guided meditations supported by distant Reiki healing to explore your inner landscapes in a variety of ways.
+* The Reiki Rhythm drum sound healing for specific physical ailments, general wellbeing, releasing limiting self-belief and setting empowering truths.
+* Drum journeys: I can facilitate your own healing journey, or undertake a journey on your behalf. This can include accessing information or wisdom for a specific issue, finding your power words for your life/soul path, meeting your animal guardian, meeting your guides and soul part retrieval.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+*I’ve been working very successfully by Zoom or Whatsapp and will continue to offer this until my new treatment space is ready.*
