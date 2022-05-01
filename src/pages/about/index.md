@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: Your healing, your way.
 ---
-*I offer the following healing treatments and would be happy to personalise these for your specific needs. I offer a free, 20 minute consultation to ensure you get your healing, your way.*
+*I offer the following healing treatments and would be happy to personalise these for your specific needs. I offer a free, 20 minute consultation to ensure you get your healing, your way..*
 
 * Reiki Tenohira (hands on healing). This is currently not being offered, due to the effects of Covid -19.
 * Distant Reiki healing.
